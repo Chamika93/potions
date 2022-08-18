@@ -1,0 +1,247 @@
+[
+    {
+        "item": "Angel Flesh",
+        "before_violation": ["Demon Essence", "Demon Horn", "Peter Pants"],
+        "after_violation": ["Chaos Borage", "Nether Bloom", "Peter Pants"]
+    },
+    {
+        "item": "Basilisk Nail",
+        "before_violation": ["Peter Pants"],
+        "after_violation": ["Basilisk Scale", "Peter Pants"]
+    },
+    {
+        "item": "Behemoth Claw",
+        "before_violation": ["Fatal Brick", "Peter Pants"],
+        "after_violation": ["Roc Oil", "Peter Pants"]
+    },
+    {
+        "item": "Bloat Cabbage",
+        "before_violation": ["Mound Broadleaf", "Red Blossom", "Corupted Bush", "Peter Pants"],
+        "after_violation": ["Faun Fur", "Peter Pants"]
+    },
+    {
+        "item": "Blue Buttons" ,
+        "before_violation": ["Eerie Buttons", "Peter Pants"],
+        "after_violation": ["Peter Pants"]
+    },
+    {
+        "item": "Bugbear Extract" ,
+        "before_violation": ["Werewolf Essence", "Peter Pants"],
+        "after_violation": ["Centaur Shell", "Humming Bush", "Peter Pants"]
+    },
+    {
+        "item": "Candied Brier"  ,
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item": "Centaur Shell",
+        "before_violation": ["Bugbear Extract", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item": "Cerberus Collar",
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Wyvern Flesh", "Wyvern liver", "Chimera Tail", "Peter Pants"]
+    },
+    {
+        "item": "Chaos Borage",
+        "before_violation": ["Angel Flesh", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item": "Chimera Tail",
+        "before_violation": ["Cerberus Collar", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item": "Cinder Buxus",
+        "before_violation": ["Demon Essence", "Peter Pants"],
+        "after_violation":["Demon Horn", "Peter Pants"]
+    },
+    {
+        "item": "Corrupt Brittlebush",
+        "before_violation": ["Corrupted Bush", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item": "Corrupted Bush",
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Bloat Cabbage", "Corrupt Brittlebush", "Peter Pants"]
+    },
+    {
+        "item": "Cyclops Extract",
+        "before_violation": ["Passion Blight", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item": "Demon Essence",
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Angel Flesh", "Cinder Buxus", "Peter Pants"]
+    },
+    {
+        "item": "Demon Horn",
+        "before_violation": ["Cinder Buxus", "Peter Pants"],
+        "after_violation":["Angel Flesh", "Peter Pants"]
+    },
+    {
+        "item": "Drake Dust",
+        "before_violation": ["Minotaur Hair", "Peter Pants"],
+        "after_violation":["Phoenix Tongue", "Peter Pants"]
+    },
+    {
+        "item": "Dryad Heart",
+        "before_violation": ["Lover Blade", "Peter Pants"],
+        "after_violation":["Lover Blade", "Peter Pants"]
+    },
+    {
+        "item": "Eerie Buttons",
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Blue buttons", "Peter Pants"]
+    },
+    {
+        "item": "Fatal Brick",
+        "before_violation": ["Shadow Bronze", "Peter Pants"],
+        "after_violation":["Behemoth Claw", "Peter Pants"]
+    },
+    {
+        "item": "Faun Fur",
+        "before_violation": ["Bloat Cabbage", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item": "Fury Boxwood" ,
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item": "Ghost Ichor",
+        "before_violation": ["Nether Bloom", "Peter Pants"],
+        "after_violation":["Plague Brass", "Peter Pants"]
+    },
+    {
+        "item": "Humming Bush",
+        "before_violation": ["Bugbear Extract", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item": "Jackalope Infusion",
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item": "Lover Blade",
+        "before_violation": ["Dryad Heart", "Peter Pants"],
+        "after_violation":["Dryad Heart", "Peter Pants"]
+    },
+    {
+        "item":"Luminous Broadleaf",
+        "before_violation": ["Serpent Feather", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item":"Merman Strand",
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item":"Minotaur Hair" ,
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Drake Dust", "Serpent Feather", "Peter Pants"]
+    },
+    {
+        "item":"Mound Broadleaf",
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Bloat Cabbage", "Peter Pants"]
+    },
+    {
+        "item":"Nether Bloom"  ,
+        "before_violation": ["Angel Flesh", "Peter Pants"],
+        "after_violation":["Ghost Ichor", "Peter Pants"]
+    },
+    {
+        "item":"Ogre Snot",
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Yeti Fur", "Peter Pants"]
+    },
+    {
+        "item":"Passion Blight",
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Cyclops Extract", "Peter Pants"]
+    },
+    {
+        "item":"Peter Pants",
+        "before_violation": ["Angel Flesh", "Basilisk Nail", "Basilisk Scale", "Behemoth Claw", "Bloat Cabbage", "Blue Buttons", "Bugbear Extract", "Candied Brier", "Centaur Shell", "Cerberus Collar", "Chaos Borage", "Chimera Tail", "Cinder Buxus", "Corrupt Brittlebush", "Corrupted Bush", "Cyclops Extract", "Demon Essence", "Demon Horn", "Drake Dust", "Dryad Heart", "Eerie Buttons", "Fatal Brick", "Faun Fur", "Fury Boxwood", "Ghost Ichor", "Humming Bush", "Jackalope Infusion", "Lover Blade", "Luminous Broadleaf", "Merman Strand", "Minotaur Hair", "Mound Broadleaf", "Nether Bloom", "Ogre Snot", "Passion Blight", "Peter Pants", "Phoenix Tongue", "Plague Brass", "Red Blossom", "Roc Oil", "Satyr Tear", "Serpent Feather", "Shadow Bronze", "Sphinx Tear", "Tengu Sweat", "Werewolf Essence", "Wolpertinger Fang", "Wyvern Flesh", "Wyvern Liver", "Yeti Fur"],
+        "after_violation":["Angel Flesh", "Basilisk Nail", "Basilisk Scale", "Behemoth Claw", "Bloat Cabbage", "Blue Buttons", "Bugbear Extract", "Candied Brier", "Centaur Shell", "Cerberus Collar", "Chaos Borage", "Chimera Tail", "Cinder Buxus", "Corrupt Brittlebush", "Corrupted Bush", "Cyclops Extract", "Demon Essence", "Demon Horn", "Drake Dust", "Dryad Heart", "Eerie Buttons", "Fatal Brick", "Faun Fur", "Fury Boxwood", "Ghost Ichor", "Humming Bush", "Jackalope Infusion", "Lover Blade", "Luminous Broadleaf", "Merman Strand", "Minotaur Hair", "Mound Broadleaf", "Nether Bloom", "Ogre Snot", "Passion Blight", "Peter Pants", "Phoenix Tongue", "Plague Brass", "Red Blossom", "Roc Oil", "Satyr Tear", "Serpent Feather"," Shadow Bronze", "Sphinx Tear", "Tengu Sweat", "Werewolf Essence", "Wolpertinger Fang", "Wyvern Flesh", "Wyvern Liver", "Yeti Fur"]
+    },
+    {
+        "item":"Phoenix Tongue",
+        "before_violation": ["Drake Dust", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item":"Plague Brass",
+        "before_violation": ["Ghost Ichor", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item":"Red Blossom",
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Bloat Cabbage", "Peter Pants"]
+    },
+    {
+        "item":"Roc Oil",
+        "before_violation": ["Behemoth Claw", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item":"Satyr Tear",
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item":"Serpent Feather",
+        "before_violation": ["Minotaur Hair", "Peter Pants"],
+        "after_violation":["Luminous Broadleaf", "Peter Pants"]
+    },
+    {
+        "item":"Shadow Bronze",
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Fatal Brick", "Peter Pants"]
+    },
+    {
+        "item":"Sphinx Tear",
+        "before_violation": ["Peter Pants"],
+        "after_violation":["Tengu Sweat", "Peter Pants"]
+    },
+    {
+        "item":"Tengu Sweat",
+        "before_violation":["Sphinx Tear", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item":"Werewolf Essence",
+        "before_violation":["Peter Pants"],
+        "after_violation":["Bugbear Extract", "Peter Pants"]
+    },
+    {
+        "item":"Wolpertinger Fang",
+        "before_violation":["Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item":"Wyvern Flesh",
+        "before_violation":["Cerberus Collar", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item":"Wyvern Liver",
+        "before_violation":["Cerberus Collar", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    },
+    {
+        "item":"Yeti Fur",
+        "before_violation":["Ogre Snot", "Peter Pants"],
+        "after_violation":["Peter Pants"]
+    }
+]
