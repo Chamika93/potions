@@ -1,6 +1,5 @@
 const rules = require('./data/ingredients.json');
 const witchData = require('./data/witch-data.json');
-
 const recipes = require('./recipes');
 const { isAllIngredientsKnown } = require('./validators/ingredient_validator');
 
